@@ -23,14 +23,16 @@ Task B. Assume that a customer, who will be using this recommender system, has s
 in a product. E.g., one website describes multiple attributes of beer:
 https://www.dummies.com/food-drink/drinks/beer/beer-for-dummies-cheat-sheet/
 
- Aggressive (Boldly assertive aroma and/or taste) 
- Balanced: Malt and hops in similar proportions; equal representation of malt sweetness and 
+- Aggressive (Boldly assertive aroma and/or taste) 
+- Balanced: Malt and hops in similar proportions; equal representation of malt sweetness and 
 hop bitterness in the flavor — especially at the finish
- Complex: Multidimensional; many flavors and sensations on the palate
- Crisp: Highly carbonated; effervescent
- Fruity: Flavors reminiscent of various fruits or Hoppy: Herbal, earthy, spicy, or citric aromas and 
+
+- Complex: Multidimensional; many flavors and sensations on the palate
+
+- Crisp: Highly carbonated; effervescent
+- Fruity: Flavors reminiscent of various fruits or Hoppy: Herbal, earthy, spicy, or citric aromas and 
 flavors of hops or Malty: Grainy, caramel-like; can be sweet or dry
- Robust: Rich and full-bodied
+- Robust: Rich and full-bodied
 
 A word frequency analysis of beer reviews may be a better way to find important attributes. 
 Assume that a customer has specified three attributes of the product as being important to him or 
