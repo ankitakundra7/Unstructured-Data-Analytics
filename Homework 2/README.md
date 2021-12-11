@@ -68,16 +68,3 @@ Task G. How would your recommendations differ if you ignored the similarity and 
 scores and simply chose the 3 highest rated products from your entire dataset? Would these products 
 meet the requirements of the user looking for recommendations? Why or why not? Justify your answer 
 with analysis. Use the similarity and sentiment scores as well as overall ratings to answer this question. 
-
-Here is a sample web implementation of a recommender system based on the same principles 
-(runningshoe4you.com), but in this assignment, we will not have the time for this type of full 
-automation.
-
-Your submission (python notebook) should include the following: 
-(i) Names of all team members inside the python notebook (only one submission per team) 
-including morning/late morning cohort information. 
-(ii) All scripts 
-(iii) The sentiment and similarity scores for the three products you recommended in task E.
-(iv) Your analyses for and answer to task F. Make sure you show the ratings, similarity scores 
-and sentiments for the products you recommend in tasks E and F. Use tables whenever 
-possible.
